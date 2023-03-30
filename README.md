@@ -1,5 +1,5 @@
 # Snake Game
-* This project is a normal sanke, which is responsive in both desktop view and mobile view
+* This project is a normal snake, which is responsive in both desktop view and mobile view
 * The functionality and control are same as the traditional snake game.
 * The interface of the game looks like as below
 
